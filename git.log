@@ -1,0 +1,19 @@
+commit 095cb0146252f89ab7361d1b5ecb46959397cc09
+Author: Yutaro Oiwa <221205023@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 15:45:22 2023 +0900
+
+    ピースが落ちてくる速度を変更
+
+commit 8ffd3e3725090591da04efee7eaebb101353943b
+Author: Yutaro Oiwa <221205023@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 15:39:34 2023 +0900
+
+    ピースの色を変更
+    
+    深緑を黄緑に変更
+
+commit 02a100a76f5764265b8cbd7f97e99ea032618f8f
+Author: Yutaro Oiwa <221205023@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 15:22:07 2023 +0900
+
+    canvas-tetrisのソースコードをインポート
